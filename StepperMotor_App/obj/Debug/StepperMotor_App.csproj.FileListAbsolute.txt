@@ -1,0 +1,10 @@
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\bin\Debug\StepperMotor_App.exe.config
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\bin\Debug\StepperMotor_App.exe
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\bin\Debug\StepperMotor_App.pdb
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\bin\Debug\customControl.dll
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\bin\Debug\customControl.pdb
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.Form1.resources
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.Properties.Resources.resources
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.csproj.GenerateResource.Cache
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.exe
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.pdb

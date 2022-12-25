@@ -24,6 +24,8 @@ namespace StepperMotor_App
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Set the default baudrate
+            commStage.baudrate = 115200;
             txtBxCurrent.Text = Properties.Settings.Default.pos;
             enableWarningToolStripMenuItem.Checked = Properties.Settings.Default.enableWarning;
 
@@ -118,6 +120,17 @@ namespace StepperMotor_App
             enableWarningToolStripMenuItem.Checked = target;
             Properties.Settings.Default.enableWarning = target;
             Properties.Settings.Default.Save();
+        }
+
+        public void setBaudrate()
+        {
+            formBaudrate frm = new formBaudrate();
+            frm.ShowDialog();
+        }
+
+        private void setBaudrateToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            setBaudrate();
         }
     }
 }

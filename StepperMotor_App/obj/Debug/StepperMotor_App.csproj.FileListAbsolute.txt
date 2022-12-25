@@ -8,3 +8,5 @@ E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\Steppe
 E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.csproj.GenerateResource.Cache
 E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.exe
 E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.pdb
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.csprojResolveAssemblyReference.cache
+E:\CSharp\Stepper_Control_App\StepperMotor_App\StepperMotor_App\obj\Debug\StepperMotor_App.formBaudrate.resources

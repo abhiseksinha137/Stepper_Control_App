@@ -45,6 +45,7 @@
             this.enableWarningToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.txtBxCurrent = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.setBaudrateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -149,7 +150,8 @@
             // 
             this.tareToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tareToolStripMenuItem1,
-            this.enableWarningToolStripMenuItem});
+            this.enableWarningToolStripMenuItem,
+            this.setBaudrateToolStripMenuItem});
             this.tareToolStripMenuItem.Name = "tareToolStripMenuItem";
             this.tareToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.tareToolStripMenuItem.Text = "Options";
@@ -185,6 +187,13 @@
             this.label3.Size = new System.Drawing.Size(41, 13);
             this.label3.TabIndex = 4;
             this.label3.Text = "Current";
+            // 
+            // setBaudrateToolStripMenuItem
+            // 
+            this.setBaudrateToolStripMenuItem.Name = "setBaudrateToolStripMenuItem";
+            this.setBaudrateToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
+            this.setBaudrateToolStripMenuItem.Text = "Set Baudrate";
+            this.setBaudrateToolStripMenuItem.Click += new System.EventHandler(this.setBaudrateToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -231,6 +240,7 @@
         private System.Windows.Forms.TextBox txtBxCurrent;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ToolStripMenuItem enableWarningToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem setBaudrateToolStripMenuItem;
     }
 }
 
